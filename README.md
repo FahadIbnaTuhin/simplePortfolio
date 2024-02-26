@@ -2,6 +2,9 @@
 
 Welcome to my personal website! This repository contains the source code for my website, showcasing my skills as a web developer and providing information about my work.
 
+## Live Website
+Visit my website live at [https://fahadibnatuhin.github.io/simplePortfolio/](https://fahadibnatuhin.github.io/simplePortfolio/)
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
